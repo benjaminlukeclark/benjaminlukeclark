@@ -31,7 +31,7 @@ I specialise in designing **scalable CI/CD pipelines**, driving **Infrastructure
 | [`sudoblark.terraform.github`](https://github.com/sudoblark/sudoblark.terraform.github) | Manage GitHub orgs and repos as code using modular Terraform |
 | [`sudoblark.python.github-cli`](https://github.com/sudoblark/sudoblark.python.github-cli) | Automate org tasks with a cross-platform CLI & Python SDK |
 | [`sudoblark.github-actions.library`](https://github.com/sudoblark/sudoblark.github-actions.library) | Reusable GitHub Actions following semver and best practices |
-| [`monsternames-api`](https://github.com/sudoblark/monsternames-api) | A demo FastAPI+Terraform project deployed with full CI/CD |
+| [`sudoblark.monsternames.api`](https://github.com/sudoblark/sudoblark.monsternames.api) | Demo API fully deployed with Terraform + GitHub Actions |
 
 > For more: visit [Sudoblark GitHub org →](https://github.com/sudoblark)
 

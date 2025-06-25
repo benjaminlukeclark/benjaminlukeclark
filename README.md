@@ -44,6 +44,13 @@ I specialise in designing **scalable CI/CD pipelines**, driving **Infrastructure
 
 ---
 
+## 📊 GitHub Stats
+
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benjaminlukeclark&show_icons=true&hide_rank=false&count_private=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminlukeclark&layout=compact&langs_count=6&theme=github_dark)
+
+---
+
 Thanks for stopping by 👋  
 Feel free to explore my repos or reach out if you'd like to collaborate on tooling, infrastructure, or speaking.
-
